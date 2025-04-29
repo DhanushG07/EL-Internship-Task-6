@@ -1,4 +1,5 @@
-
+```sql
+    
 -- 1. Monthly Revenue and Order Volume
 SELECT
     STRFTIME('%Y', order_date) AS year,
